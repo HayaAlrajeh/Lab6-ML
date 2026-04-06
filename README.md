@@ -1,3 +1,4 @@
+# Lab 6 - Linear Regression ( Ecommerce Customers )
 This lab focuses on applying linear regression on an e-commerce customers dataset to understand the factors that influence yearly spending. The dataset includes features such as session length, time spent on the app and website, and membership duration.
 
 The workflow started by exploring the data using basic functions and visualizations to understand relationships between variables. Then, unnecessary columns were removed and the data was prepared for modeling. After that, a linear regression model was trained and used to make predictions.
