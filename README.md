@@ -5,5 +5,5 @@ The workflow started by exploring the data using basic functions and visualizati
 
 Finally, the model was evaluated using different metrics such as MAE, MSE, RMSE, and R² score, along with visualizations to assess prediction performance and residual distribution. The results show that the model performs well and captures the relationship between features and customer spending.
 
-### Notes
+# Notes
 Feature engineering was not applied since the dataset was already clean and suitable for modeling.
